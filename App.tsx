@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import Header from './components/Header';
-import Sidebar from './components/Sidebar';
-import SupplierPanel from './components/SupplierPanel';
-import StorePanel from './components/StorePanel';
-import Login from './components/Login';
+import Header from './Header';
+import Sidebar from './Sidebar';
+import SupplierPanel from './SupplierPanel';
+import StorePanel from './StorePanel';
+import Login from './Login';
 import { ViewState, StoreAccount, Order, ModelCategory, ModelItem, OrderStatus } from './types';
 import { Armchair } from 'lucide-react';
 
